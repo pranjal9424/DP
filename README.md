@@ -406,12 +406,15 @@ Graph	Minimise the cashflow among a given set of friends who have borrowed money
 Graph	Two Clique Problem
 	
 	
-Trie	Construct a trie from scratch
-Trie	Find shortest unique prefix for every word in a given list
-Trie	Word Break Problem | (Trie solution)
-Trie	Given a sequence of words, print all anagrams together
-Trie	Implement a Phone Directory
-Trie	Print unique rows in a given boolean matrix
+Trie
+
+
+	1 Construct a   from scratch
+ 	2 Find shortest unique prefix for every word in a given list
+ 	3 Word Break Problem | (  solution)
+ 	4 Given a sequence of words, print all anagrams together
+ 	5 Implement a Phone Directory
+ 	6 Print unique rows in a given boolean matrix
 	
 Dynamic Programming
 
