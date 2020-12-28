@@ -38,17 +38,19 @@ Array
   	35. Median of 2 sorted arrays of equal size
   	36. Median of 2 sorted arrays of different size
 	
-	
-Matrix	Spiral traversal on a Matrix
-Matrix	Search an element in a matriix
-Matrix	Find median in a row wise sorted matrix
-Matrix	Find row with maximum no. of 1's
-Matrix	Print elements in sorted order using row-column wise sorted matrix
-Matrix	Maximum size rectangle
-Matrix	Find a specific pair in matrix
-Matrix	Rotate matrix by 90 degrees
-Matrix	Kth smallest element in a row-cpumn wise sorted matrix
-Matrix	Common elements in all rows of a given matrix
+Matrix
+
+
+ 	1.  Spiral traversal on a  
+ 	2.  Search an element in a matriix
+ 	3.  Find median in a row wise sorted matrix
+ 	4.  Find row with maximum no. of 1's
+ 	5.  Print elements in sorted order using row-column wise sorted matrix
+ 	6.  Maximum size rectangle
+ 	7.  Find a specific pair in matrix
+ 	8.  Rotate matrix by 90 degrees
+ 	9.  Kth smallest element in a row-cpumn wise sorted matrix
+ 	10. Common elements in all rows of a given matrix
 	
 	
 String	Reverse a String
@@ -285,7 +287,7 @@ BackTracking	Combinational Sum
 BackTracking	Find Maximum number possible by doing at-most K swaps
 BackTracking	Print all permutations of a string 
 BackTracking	Find if there is a path of more than k length from a source
-BackTracking	Longest Possible Route in a Matrix with Hurdles
+BackTracking	Longest Possible Route in a   with Hurdles
 BackTracking	Print all possible paths from top left to bottom right of a mXn matrix
 BackTracking	Partition of a set intoK subsets with equal sum
 BackTracking	Find the K-th Permutation Sequence of first N natural numbers
@@ -410,7 +412,7 @@ Dynamic Programming	Knapsack Problem
 Dynamic Programming	Binomial CoefficientProblem
 Dynamic Programming	Permutation CoefficientProblem
 Dynamic Programming	Program for nth Catalan Number
-Dynamic Programming	Matrix Chain Multiplication 
+Dynamic Programming	  Chain Multiplication 
 Dynamic Programming	Edit Distance
 Dynamic Programming	Subset Sum Problem
 Dynamic Programming	Friends Pairing Problem
