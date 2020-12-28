@@ -344,23 +344,23 @@ Heap
 
 
 	1  Implement a Maxheap/MinHeap using arrays and recursion.
-2  Sort an    using heap. (HeapSort)
-3  Maximum of all subarrays of size k.
-5  “k” largest element in an array
-6  Kth smallest and largest element in an unsorted array
-7  Merge “K” sorted arrays. [ IMP ]
-8  Merge 2 Binary Max Heaps
-9  Kth largest sum continuous subarrays
-10 Leetcode- reorganize strings
-11 Merge “K” Sorted Linked Lists [V.IMP]
-12 Smallest range in “K” Lists
-13 Median in a stream of Integers
-14 Check if a Binary Tree is heap
-15 Connect “n” ropes with minimum cost
-16 Convert BST to Min heap
-17 Convert min heap to max (heap)
-18 Rearrange characters in a string such that no two adjacent are same.
-19 Minimum sum of two numbers formed from digits of an array
+	2  Sort an    using heap. (HeapSort)
+	3  Maximum of all subarrays of size k.
+	5  “k” largest element in an array
+	6  Kth smallest and largest element in an unsorted array
+	7  Merge “K” sorted arrays. [ IMP ]
+	8  Merge 2 Binary Max Heaps
+	9  Kth largest sum continuous subarrays
+	10 Leetcode- reorganize strings
+	11 Merge “K” Sorted Linked Lists [V.IMP]
+	12 Smallest range in “K” Lists
+	13 Median in a stream of Integers
+	14 Check if a Binary Tree is heap
+	15 Connect “n” ropes with minimum cost
+	16 Convert BST to Min heap
+	17 Convert min heap to max (heap)
+	18 Rearrange characters in a string such that no two adjacent are same.
+	19 Minimum sum of two numbers formed from digits of an array
 	
 	
 Graph
