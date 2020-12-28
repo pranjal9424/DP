@@ -413,67 +413,69 @@ Trie	Given a sequence of words, print all anagrams together
 Trie	Implement a Phone Directory
 Trie	Print unique rows in a given boolean matrix
 	
-	
-Dynamic Programming	Coin ChangeProblem
-Dynamic Programming	Knapsack Problem
-Dynamic Programming	Binomial CoefficientProblem
-Dynamic Programming	Permutation CoefficientProblem
-Dynamic Programming	Program for nth Catalan Number
-Dynamic Programming	  Chain Multiplication 
-Dynamic Programming	Edit Distance
-Dynamic Programming	Subset Sum Problem
-Dynamic Programming	Friends Pairing Problem
-Dynamic Programming	Gold Mine Problem
-Dynamic Programming	Assembly Line SchedulingProblem
-Dynamic Programming	Painting the Fenceproblem
-Dynamic Programming	Maximize The Cut Segments
-Dynamic Programming	Longest Common Subsequence
-Dynamic Programming	Longest Repeated Subsequence
-Dynamic Programming	Longest Increasing Subsequence
-Dynamic Programming	Space Optimized Solution of LCS
-Dynamic Programming	LCS (Longest Common Subsequence) of three strings
-Dynamic Programming	Maximum Sum Increasing Subsequence
-Dynamic Programming	Count all subsequences having product less than K
-Dynamic Programming	Longest subsequence such that difference between adjacent is one
-Dynamic Programming	Maximum subsequence sum such that no three are consecutive
-Dynamic Programming	Egg Dropping Problem
-Dynamic Programming	Maximum Length Chain of Pairs
-Dynamic Programming	Maximum size square sub-matrix with all 1s
-Dynamic Programming	Maximum sum of pairs with specific difference
-Dynamic Programming	Min Cost PathProblem
-Dynamic Programming	Maximum difference of zeros and ones in binary string
-Dynamic Programming	Minimum number of jumps to reach end
-Dynamic Programming	Minimum cost to fill given weight in a bag
-Dynamic Programming	Minimum removals from array to make max –min <= K
-Dynamic Programming	Longest Common Substring
-Dynamic Programming	Count number of ways to reacha given score in a game
-Dynamic Programming	Count Balanced Binary Trees of Height h
-Dynamic Programming	LargestSum Contiguous Subarray [V>V>V>V IMP ]
-Dynamic Programming	Smallest sum contiguous subarray
-Dynamic Programming	Unbounded Knapsack (Repetition of items allowed)
-Dynamic Programming	Word Break Problem
-Dynamic Programming	Largest Independent Set Problem
-Dynamic Programming	Partition problem
-Dynamic Programming	Longest Palindromic Subsequence
-Dynamic Programming	Count All Palindromic Subsequence in a given String
-Dynamic Programming	Longest Palindromic Substring
-Dynamic Programming	Longest alternating subsequence
-Dynamic Programming	Weighted Job Scheduling
-Dynamic Programming	Coin game winner where every player has three choices
-Dynamic Programming	Count Derangements (Permutation such that no element appears in its original position) [ IMPORTANT ]
-Dynamic Programming	Maximum profit by buying and selling a share at most twice [ IMP ]
-Dynamic Programming	Optimal Strategy for a Game
-Dynamic Programming	Optimal Binary Search Tree
-Dynamic Programming	Palindrome PartitioningProblem
-Dynamic Programming	Word Wrap Problem
-Dynamic Programming	Mobile Numeric Keypad Problem [ IMP ]
-Dynamic Programming	Boolean Parenthesization Problem
-Dynamic Programming	Largest rectangular sub-matrix whose sum is 0
-Dynamic Programming	Largest area rectangular sub-matrix with equal number of 1’s and 0’s [ IMP ]
-Dynamic Programming	Maximum sum rectangle in a 2D matrix
-Dynamic Programming	Maximum profit by buying and selling a share at most k times
-Dynamic Programming	Find if a string is interleaved of two other strings
-Dynamic Programming	Maximum Length of Pair Chain
+Dynamic Programming
+
+
+ 	1  Coin ChangeProblem
+ 	2  Knapsack Problem
+ 	3  Binomial CoefficientProblem
+ 	4  Permutation CoefficientProblem
+ 	5  Program for nth Catalan Number
+ 	6  Chain Multiplication 
+ 	7  Edit Distance
+ 	8  Subset Sum Problem
+ 	9  Friends Pairing Problem
+ 	10 Gold Mine Problem
+ 	11 Assembly Line SchedulingProblem
+ 	12 Painting the Fenceproblem
+ 	13 Maximize The Cut Segments
+ 	14 Longest Common Subsequence
+ 	15 Longest Repeated Subsequence
+ 	16 Longest Increasing Subsequence
+ 	17 Space Optimized Solution of LCS
+ 	18 LCS (Longest Common Subsequence) of three strings
+ 	19 Maximum Sum Increasing Subsequence
+ 	20 Count all subsequences having product less than K
+ 	21 Longest subsequence such that difference between adjacent is one
+ 	22 Maximum subsequence sum such that no three are consecutive
+ 	23 Egg Dropping Problem
+ 	24 Maximum Length Chain of Pairs
+ 	25 Maximum size square sub-matrix with all 1s
+ 	26 Maximum sum of pairs with specific difference
+ 	27 Min Cost PathProblem
+ 	28 Maximum difference of zeros and ones in binary string
+ 	29 Minimum number of jumps to reach end
+ 	30 Minimum cost to fill given weight in a bag
+ 	31 Minimum removals from array to make max –min <= K
+ 	32 Longest Common Substring
+ 	33 Count number of ways to reacha given score in a game
+ 	34 Count Balanced Binary Trees of Height h
+ 	35 LargestSum Contiguous Subarray [V>V>V>V IMP ]
+ 	36 Smallest sum contiguous subarray
+ 	37 Unbounded Knapsack (Repetition of items allowed)
+ 	38 Word Break Problem
+ 	39 Largest Independent Set Problem
+ 	40 Partition problem
+ 	50 Longest Palindromic Subsequence
+ 	51 Count All Palindromic Subsequence in a given String
+ 	52 Longest Palindromic Substring
+ 	53 Longest alternating subsequence
+ 	54 Weighted Job Scheduling
+ 	55 Coin game winner where every player has three choices
+ 	56 Count Derangements (Permutation such that no element appears in its original position) [ IMPORTANT ]
+ 	57 Maximum profit by buying and selling a share at most twice [ IMP ]
+ 	58 Optimal Strategy for a Game
+ 	59 Optimal Binary Search Tree
+ 	60 Palindrome PartitioningProblem
+ 	61 Word Wrap Problem
+ 	62 Mobile Numeric Keypad Problem [ IMP ]
+ 	63 Boolean Parenthesization Problem
+ 	64 Largest rectangular sub-matrix whose sum is 0
+ 	65 Largest area rectangular sub-matrix with equal number of 1’s and 0’s [ IMP ]
+ 	66 Maximum sum rectangle in a 2D matrix
+ 	67 Maximum profit by buying and selling a share at most k times
+ 	68 Find if a string is interleaved of two other strings
+ 	69 Maximum Length of Pair Chain
 	
 
 Bit Manipulation
