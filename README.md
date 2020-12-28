@@ -363,7 +363,7 @@ Heap	Minimum sum of two numbers formed from digits of an array
 Graph
 
 
-     1  Create a Graph, print it
+    1  Create a Graph, print it
 	2  Implement BFS algorithm 
 	3  Implement DFS Algo 
 	4  Detect Cycle in Directed Graph using BFS/DFS Algo 
@@ -388,7 +388,7 @@ Graph
 	23 Travelling Salesman Problem
 	24 Graph ColouringProblem
 	25 Snake and Ladders Problem	
-     26 Find bridge in a graph
+    26 Find bridge in a graph
 	27 Count Strongly connected Components(Kosaraju Algo)
 	28 Check whether a graph is Bipartite or Not
 	29 Detect Negative cycle in a graph
