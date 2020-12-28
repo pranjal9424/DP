@@ -139,43 +139,46 @@ Searching & Sorting
  	35 Implement Merge-sort in-place
  	36 Partitioning and Sorting   s with Many Repeated Entries
 	
+
+LinkedList
+
 	
-LinkedList	Write a Program to reverse the Linked List. (Both Iterative and recursive)
-LinkedList	Reverse a Linked List in group of Given Size. [Very Imp]
-LinkedList	Write a program to Detect loop in a linked list.
-LinkedList	Write a program to Delete loop in a linked list.
-LinkedList	Find the starting point of the loop. 
-LinkedList	Remove Duplicates in a sorted Linked List.
-LinkedList	Remove Duplicates in a Un-sorted Linked List.
-LinkedList	Write a Program to Move the last element to Front in a Linked List.
-LinkedList	Add “1” to a number represented as a Linked List.
-LinkedList	Add two numbers represented by linked lists.
-LinkedList	Intersection of two Sorted Linked List.
-LinkedList	Intersection Point of two Linked Lists.
-LinkedList	Merge Sort For Linked lists.[Very Important]
-LinkedList	Quicksort for Linked Lists.[Very Important]
-LinkedList	Find the middle Element of a linked list.
-LinkedList	Check if a linked list is a circular linked list.
-LinkedList	Split a Circular linked list into two halves.
-LinkedList	Write a Program to check whether the Singly Linked list is a palindrome or not.
-LinkedList	Deletion from a Circular Linked List.
-LinkedList	Reverse a Doubly Linked list.
-LinkedList	Find pairs with a given sum in a DLL.
-LinkedList	Count triplets in a sorted DLL whose sum is equal to given value “X”.
-LinkedList	Sort a “k”sorted Doubly Linked list.[Very IMP]
-LinkedList	Rotate DoublyLinked list by N nodes.
-LinkedList	Rotate a Doubly Linked list in group of Given Size.[Very IMP]
-LinkedList	Can we reverse a linked list in less than O(n) ?
-LinkedList	Why Quicksort is preferred for.   s and Merge Sort for LinkedLists ?
-LinkedList	Flatten a Linked List
-LinkedList	Sort a LL of 0's, 1's and 2's
-LinkedList	Clone a linked list with next and random pointer
-LinkedList	Merge K sorted Linked list
-LinkedList	Multiply 2 no. represented by LL
-LinkedList	Delete nodes which have a greater value on right side
-LinkedList	Segregate even and odd nodes in a Linked List
-LinkedList	Program for n’th node from the end of a Linked List
-LinkedList	Find the first non-repeating character from a stream of characters
+ 	1  Write a Program to reverse the Linked List. (Both Iterative and recursive)
+ 	2  Reverse a Linked List in group of Given Size. [Very Imp]
+ 	3  Write a program to Detect loop in a linked list.
+ 	4  Write a program to Delete loop in a linked list.
+ 	5  Find the starting point of the loop. 
+ 	6  Remove Duplicates in a sorted Linked List.
+ 	7  Remove Duplicates in a Un-sorted Linked List.
+ 	8  Write a Program to Move the last element to Front in a Linked List.
+ 	9  Add “1” to a number represented as a Linked List.
+ 	10 Add two numbers represented by linked lists.
+ 	11 Intersection of two Sorted Linked List.
+ 	12 Intersection Point of two Linked Lists.
+ 	13 Merge Sort For Linked lists.[Very Important]
+ 	14 Quicksort for Linked Lists.[Very Important]
+ 	15 Find the middle Element of a linked list.
+ 	16 Check if a linked list is a circular linked list.
+ 	17 Split a Circular linked list into two halves.
+ 	18 Write a Program to check whether the Singly Linked list is a palindrome or not.
+ 	19 Deletion from a Circular Linked List.
+ 	20 Reverse a Doubly Linked list.
+ 	21 Find pairs with a given sum in a DLL.
+ 	22 Count triplets in a sorted DLL whose sum is equal to given value “X”.
+ 	23 Sort a “k”sorted Doubly Linked list.[Very IMP]
+ 	24 Rotate DoublyLinked list by N nodes.
+ 	25 Rotate a Doubly Linked list in group of Given Size.[Very IMP]
+ 	26 Can we reverse a linked list in less than O(n) ?
+ 	27 Why Quicksort is preferred for.   s and Merge Sort for  s ?
+ 	28 Flatten a Linked List
+ 	29 Sort a LL of 0's, 1's and 2's
+ 	30 Clone a linked list with next and random pointer
+ 	31 Merge K sorted Linked list
+ 	32 Multiply 2 no. represented by LL
+ 	33 Delete nodes which have a greater value on right side
+ 	34 Segregate even and odd nodes in a Linked List
+ 	35 Program for n’th node from the end of a Linked List
+ 	36 Find the first non-repeating character from a stream of characters
 	
 	
 Binary Trees	level order traversal
@@ -472,14 +475,17 @@ Dynamic Programming	Maximum profit by buying and selling a share at most k times
 Dynamic Programming	Find if a string is interleaved of two other strings
 Dynamic Programming	Maximum Length of Pair Chain
 	
-	
-Bit Manipulation	Count set bits in an integer
-Bit Manipulation	Find the two non-repeating elements in an array of repeating elements
-Bit Manipulation	Count number of bits to be flipped to convert A to B
-Bit Manipulation	Count total set bits in all numbers from 1 to n
-Bit Manipulation	Program to find whether a no is power of two
-Bit Manipulation	Find position of the only set bit
-Bit Manipulation	Copy set bits in a range
-Bit Manipulation	Divide two integers without using multiplication, division and mod operator
-Bit Manipulation	Calculate square of a number without using *, / and pow()
-Bit Manipulation	Power Set
+
+Bit Manipulation
+
+
+ 	1  Count set bits in an integer
+ 	2  Find the two non-repeating elements in an array of repeating elements
+ 	3  Count number of bits to be flipped to convert A to B
+ 	4  Count total set bits in all numbers from 1 to n
+ 	5  Program to find whether a no is power of two
+ 	6  Find position of the only set bit
+ 	7  Copy set bits in a range
+ 	8  Divide two integers without using multiplication, division and mod operator
+ 	9  Calculate square of a number without using *, / and pow()
+ 	10 Power Set
