@@ -343,7 +343,7 @@ Stacks & Queues	Next Smaller Element
 Heap
 
 
-1  Implement a Maxheap/MinHeap using arrays and recursion.
+ 1  Implement a Maxheap/MinHeap using arrays and recursion.
 2  Sort an    using heap. (HeapSort)
 3  Maximum of all subarrays of size k.
 5  “k” largest element in an array
