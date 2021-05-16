@@ -23,5 +23,6 @@ int main()
             }
 
     // print element
-    cout<<arr[index-1];
+    cout<<"min :- "<<arr[index-1];
+    cout<<"max :- "<<arr[n-index];
 }
