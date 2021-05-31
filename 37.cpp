@@ -10,6 +10,7 @@ int main()
         for(int j=0;j<m;j++)
         cin>>arr[i][j];
 
+
     int mnc=0;
     int mnr=0;
     int mxc=m-1;
