@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include<iostream>
 using namespace std;
 int main()
 {
@@ -9,40 +9,43 @@ int main()
     for(int i=0;i<n;i++)
         for(int j=0;j<n;j++)
             cin>>arr[i][j];
-
-    //////  logic start from here
-    int mn=INT_MAX,mx=INT_MIN;
-    for(int i=0;i<n;i++){
-        if(arr[i][0]<mn)
-            mn=arr[i][0];
-        if(arr[i][n-1]>mx)
-            mx=arr[i][n-1];
-    }
-
-    int desire=(n*n+1)/2;
-    int mid,place;
-    while(mn<mx)
-    {
-        mid=mn+(mx-mn)/2;
-        place=0;
-
-        for(int i=0;i<n;i++)
-            place+=upper_bound(arr[i],arr[i]+n,mid)-arr[i];
-
-        if(place<desire)
-            mn=mid+1;
-        else
-            mx=mid;
-    }
-    cout<<mn;
+            /*
+    //////  best approach
+    for(int i=0;i<n;i++)
+        for(int j=0;j<n;j++)
+            if(arr[j][i]==1){
+                cout<<j;
+                return 0;
+            }
+    cout<<"NO 1's in it";
+    */
+    //another approach
+    int i,j=n-1;
+    while(j>=0 && arr[0][j]==1)
+        j--;
+    int row=0;
+    for(i=1;i<n;i++)
+        while(j>=0 && arr[i][j]==1){
+            j--;
+            row=i;
+        }
+    cout<<row;
     return 0;
 }
 
-/*
-    input:- 3
-            1 3 5
-            2 6 9
-            3 6 9
 
-   output:- 5
+/*
+    input:-     4
+                0 1 1 1
+                0 0 1 1
+                1 1 1 1
+                0 0 0 0
+   output:-     2
+    input:-     5
+                0 0 0 1 1
+                0 0 1 1 1
+                0 0 0 0 0
+                0 1 1 1 1
+                0 0 0 0 1
+   output:-     3
    */
