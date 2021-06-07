@@ -30,7 +30,6 @@ int main()
         cout<<"NO";
 }
 
-
 /*
         input:- str1 = "12"
                 str2 ="XY";
