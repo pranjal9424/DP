@@ -17,4 +17,5 @@ int main()
     int n = strlen(seq);
     sub("",0,n,seq);
     return 0;
+
 }
