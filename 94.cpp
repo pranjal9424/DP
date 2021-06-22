@@ -25,5 +25,3 @@ int main()
 
     cout<<sqrint(4);
 }
-
-
