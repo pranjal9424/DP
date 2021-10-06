@@ -6,12 +6,12 @@ struct Node{
 };
 Node *head = NULL; ///global
 Node *head2 = NULL; ///global
-/////////  split LinkedList Into Two Halves.
+/////////  split circular LinkedList Into Two Halves.
 void splitIntoTwoHalves(){
     Node *slow=head;
     Node *fast=head;
     
-    while(fast!=NULL && fast->next!=NULL){
+    while(fast->next!=head && fast->next!=head){
         fast=fast->next;
         if(fast->next!=NULL){
             slow=slow->next;
@@ -20,6 +20,7 @@ void splitIntoTwoHalves(){
     }
     head2=slow->next;
     slow->next=NULL;
+    fast->next=NULL;
     return;
 }
 
@@ -63,7 +64,7 @@ int main()
     six->next = seven;
     
     seven->data = 7; 
-    seven->next = NULL;
+    seven->next = first;
     
     head=first;
     splitIntoTwoHalves();
