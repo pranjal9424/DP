@@ -70,7 +70,8 @@ String
         58 Split the Binary string into two substring with equal 0’s and 1’s
         59 Word Wrap Problem [VERY IMP].
         60 EDIT Distance [Very Imp]
-        21 Find next greater number with same set of digits. [Very Very IMP]
+        61 Find next greater number with same set of digits. [Very Very IMP]
+	62 Check if string is rotated by two places
         63 Balanced Parenthesis problem.[Imp]
         64 Word break Problem[ Very Imp]
         65 Rabin Karp Algo
