@@ -349,37 +349,37 @@ Stacks & Queues
  	307 Check if all levels of two trees are anagrams or not.
  	308 Sum of minimum and maximum elements of all subarrays of size “k”.
  	309 Minimum sum of squares of character counts in a given string after removing “k” characters.
- 	311 Queue based approach or first non-repeating character in a stream.
- 	312 Next Smaller Element
+ 	310 Queue based approach or first non-repeating character in a stream.
+ 	311 Next Smaller Element
 	
 	
 Heap
 
 
-	313  Implement a Maxheap/MinHeap using arrays and recursion.
-	314  Sort an    using heap. (HeapSort)
-	315  Maximum of all subarrays of size k.
-	316  “k” largest element in an array
-	317  Kth smallest and largest element in an unsorted array
-	318  Merge “K” sorted arrays. [ IMP ]
-	319  Merge 2 Binary Max Heaps
-	320  Kth largest sum continuous subarrays
-	321 Leetcode- reorganize strings
-	311 Merge “K” Sorted Linked Lists [V.IMP]
-	323 Smallest range in “K” Lists
-	324 Median in a stream of Integers
-	325 Check if a Binary Tree is heap
-	326 Connect “n” ropes with minimum cost
-	327 Convert BST to Min heap
-	328 Convert min heap to max (heap)
-	329 Rearrange characters in a string such that no two adjacent are same.
-	330 Minimum sum of two numbers formed from digits of an array
+	312  Implement a Maxheap/MinHeap using arrays and recursion.
+	313  Sort an    using heap. (HeapSort)
+	314  Maximum of all subarrays of size k.
+	315  “k” largest element in an array
+	316  Kth smallest and largest element in an unsorted array
+	317  Merge “K” sorted arrays. [ IMP ]
+	318  Merge 2 Binary Max Heaps
+	319  Kth largest sum continuous subarrays
+	320 Leetcode- reorganize strings
+	321 Merge “K” Sorted Linked Lists [V.IMP]
+	321 Smallest range in “K” Lists
+	323 Median in a stream of Integers
+	324 Check if a Binary Tree is heap
+	325 Connect “n” ropes with minimum cost
+	326 Convert BST to Min heap
+	327 Convert min heap to max (heap)
+	328 Rearrange characters in a string such that no two adjacent are same.
+	329 Minimum sum of two numbers formed from digits of an array
 	
 	
 Graph
 
 
-    331  Create a Graph, print it
+    330  Create a Graph, print it
 	332  Implement BFS algorithm 
 	333  Implement DFS Algo 
 	334  Detect Cycle in Directed Graph using BFS/DFS Algo 
