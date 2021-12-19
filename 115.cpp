@@ -1,54 +1,29 @@
-#include <iostream>
-using namespace std;
-int solve(int *a,int n,int mid,int m)
-{
-    int sum=0;
+int solve(vector<int> arr,int mid,int n,int m){
     int stu=1;
-    for(int i=0;i<n;i++)
-    {
-        if(a[i]>mid) return 0;
-        if(sum+a[i]>mid)
-        {
+    int sum=0;
+    for(int i=0;i<n;i++){
+        if(sum+arr[i]>mid){
+            sum=arr[i];
             stu++;
-            sum=a[i];
-            if(stu>m) return 0;
-        }
-        else
-            sum+=a[i];
+            if(stu>m || arr[i]>mid) return 0;
+        }else sum+=arr[i];
     }
-    if(stu==m)
-    return 1;
-    else
-    return 0;
-}
-int main()
-{
-    int n,c;
-    cin>>n>>c;
     
-    int a[n];
+    return 1;
+}
+int allocateBooks(vector<int> arr, int n, int m) {
+    // Write your code here.
+    int e=0;
     int s=0;
-    for(int i=0;i<n;i++) 
-    {
-        cin>>a[i];
-        s+=a[i];
-    }
-    int lb=0;
-    int ub=s;
-    int ans=0;
-    while(lb<=ub)
-    {
-        int mid=(lb+ub)/2;
-        if(solve(a,n,mid,c))
-        {
+    int ans=-1;
+    
+    for(int i=0;i<n;i++) e+=arr[i];
+    while(s<=e){
+        int mid=s+(e-s)/2;
+        if(solve(arr,mid,n,m)){
             ans=mid;
-            ub=mid-1;
-        }
-        else
-        {
-            lb=mid+1;
-        }
+            e=mid-1;
+        }else s=mid+1;
     }
-    cout<<ans;
-    return 0;
+    return ans;
 }
