@@ -1,0 +1,2 @@
+1. Intersection point in linked list
+2. Zig zag in Bst
